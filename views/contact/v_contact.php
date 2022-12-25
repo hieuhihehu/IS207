@@ -1,7 +1,7 @@
 <section id="content-holder" class="container-fluid container">
     <section class="row-fluid">
         <div class="heading-bar">
-            <h2 align="center">Gởi liên hệ</h2>
+            <h2 align="center">Gửi liên hệ</h2>
         </div>
         <!-- Start Main Content -->
         <section class="my_login">

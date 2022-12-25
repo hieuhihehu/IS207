@@ -2,7 +2,7 @@
     <section class="container-fluid container">
       <section class="row-fluid">
         <section class="span4">
-          <h1 id="logo"> <a href="index.php"><img src="public/images/logo3.png" /></a> </h1>
+          <h1 id="logo"> <a href="index.php"><img src="public/images/bookuitlogo.png" /></a> </h1>
         </section>
         <section class="span8">
           <div class="search-bar">
@@ -22,11 +22,11 @@
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li><a href="book_category.php"><i class="icon-book"> Tất cả danh mục sách</i></a></li>
-              <li><a href="new_book.php">Sách mới nhất</a></li>
-              <li><a href="featured_book.php">Sách nổi bật</a></li>
+              <li><a href="new_book.php"><i class="icon-plus">Sách mới nhất</i></a></li>
+              <li><a href="featured_book.php"><i class="icon-tag"></i>Sách nổi bật</a></li>
               <li><a href="ranking_book.php"><i class="icon-heart"> Sách được yêu thích</i></a></li>
-              <li><a href="sale_book.php">Sách giảm giá</a></li>
-              <li><a href="best_seller_book.php">Sách bán chạy</a></li>
+              <li><a href="sale_book.php"><i class="icon-won"></i>Sách giảm giá</a></li>
+              <li><a href="best_seller_book.php"><i class="icon-star"></i>Sách bán chạy</a></li>
             </ul>
           </div>
           <!--/.nav-collapse -->
