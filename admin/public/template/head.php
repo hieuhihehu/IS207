@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Book Garden - Admin CP</title>
+    <title>BOOKUIT Store - Admin</title>
 
     <link href="public/css/jquery-ui.css" rel="stylesheet">
 
