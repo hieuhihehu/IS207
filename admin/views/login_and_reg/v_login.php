@@ -1,6 +1,6 @@
 <div class="container">
     <div class="row">
-        <h2 align="center">Vườn Ngôn Từ - Admin CP</h2>
+        <h2 align="center">Vườn Tri Thức - Góc Admin</h2>
         <div class="col-md-4 col-md-offset-4">
             <div class="login-panel panel panel-default">
                 <div class="panel-heading">

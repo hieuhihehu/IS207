@@ -3,7 +3,7 @@
       <section class="row-fluid">
         <section class="span6">
           <ul class="top-nav">
-            <li><a href="index.php">Book Garden</a></li>
+            <li><a href="index.php">BOOKUIT Store</a></li>
             <li><a href="contact.php">Liên hệ</a></li>
           </ul>
         </section>
@@ -20,7 +20,7 @@
                 <div id="empty_cart" class="popup" title="Giỏ hàng trống" align="center">
                     <br>
                     <p>Giỏ hàng của bạn hiện đang trống</p>
-                    <p>Hãy nhanh tay sở hữu những quyển sách yêu thích của bạn</p>
+                    <p>Hãy thêm vào giỏ hàng vài sản phẩm rồi thử quay lại nhé</p>
                     <br>
                     <p><a href="" id="continue_shopping_empty_cart" class="my1-btn continue_shopping">Tiếp tục mua hàng</a></p>
                 </div>

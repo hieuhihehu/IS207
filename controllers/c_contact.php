@@ -19,11 +19,11 @@ class C_contact
             $result=$this->m_contact->add_contact($ho_ten,$email,$noi_dung);
             if($result)
             {
-                $success_send_contact="Gởi thông tin thành công!";
+                $success_send_contact="Gửi thông tin thành công!";
             }
             else
             {
-                $error_send_contact="Gởi thông tin bị lỗi!";
+                $error_send_contact="Gửi thông tin bị lỗi!";
             }
         }
 
