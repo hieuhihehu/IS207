@@ -6,7 +6,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="dashboard.php">Book Garden - Admin CP</a>
+        <a class="navbar-brand" href="dashboard.php">BOOKUIT Store - Admin</a>
     </div>
     <!-- /.navbar-header -->
 
